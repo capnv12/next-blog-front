@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-source-maps": "^0.0.3",
+    "isomorphic-fetch": "^3.0.0",
+    "moment": "^2.29.1",
+    "next": "10.0.4",
+    "next-compose-plugins": "^2.2.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-markdown": "^5.0.3",
+    "react-moment": "^1.1.1",
+    "react-spring": "^8.0.27",
+    "styled-components": "^5.2.1",
+    "styled-icons": "^10.23.0"
+  }
+}
