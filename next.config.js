@@ -9,8 +9,8 @@ const nextConfig = {
 		PRODUCTION: false,
 		DOMAIN_DEVELOPMENT: 'http://localhost:3000',
 		// FB_APP_ID: '2202276243402023',
-		API_PRODUCTION: 'https://api.thenextjsblog.com',
-		DOMAIN_PRODUCTION: 'https:/thenextjsblog.com',
+		API_PRODUCTION: 'http://159.89.97.246',
+		DOMAIN_PRODUCTION: 'http:/159.89.97.246',
 		GOOGLE_CLIENT_ID:
 			'620288615602-imp9bnerbee5nf4ffsgo60pqkerk0ntg.apps.googleusercontent.com',
 	},
